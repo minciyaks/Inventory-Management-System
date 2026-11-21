@@ -121,11 +121,12 @@ Inventory-Management-System/
 │
 ├── Inventory_Management_System.C
 ├── Screenshots/
-│   ├── Main-Menu.png
-│   ├── Item-Management.png
-│   ├── Purchase-Management.png
-│   ├── Sales-Management.png
-│   └── Sales-History.png
+│   ├── Main-Menu.jpeg
+│   ├── Item-Management.jpeg
+│   ├── Purchase-Management.jpeg
+│   ├── Purchase-Management2.jpeg
+│   ├── Sales-Management.jpeg
+│   └── Inventory-Summary.jpeg
 │
 └── README.md
 ```
